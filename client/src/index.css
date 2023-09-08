@@ -1,0 +1,17 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  font-family: 'Roboto Serif', serif;
+}
+.input{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    border-radius: 8px;
+    outline: none;
+  }
